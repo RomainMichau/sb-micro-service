@@ -3,14 +3,12 @@ package com.in28minutes.springboot.microservice.example.forex.springbootmicroser
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.io.Console;
-
 @SpringBootApplication
-public class SpringBootMicroserviceForexServiceApplication {
+public class SpringBootMicroserviceForexServiceApplication2 {
 
 	public static void main(String[] args) {
 	//	System.out.println("WSHHHHH");
-		SpringApplication.run(SpringBootMicroserviceForexServiceApplication.class, args);
+		SpringApplication.run(SpringBootMicroserviceForexServiceApplication2.class, args);
 	}
 
 }
